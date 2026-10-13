@@ -2,7 +2,7 @@
 
 スマホで遊べる オリジナルカードデュエルゲーム（1ファイルの HTML ゲーム）。
 
-▶ あそぶ: https://ryowatanabe1161-svg.github.io/genjuu-duel/
+▶ あそぶ: https://fuusan-games.github.io/genjuu-duel/
 
 - 212種のオリジナルカード（モンスター・魔法・罠、神のカード、儀式モンスター、04環境モチーフのカード、制限・準制限リスト）、プリセットデッキ11種、カード図鑑
 - CPUと対戦 ／ 2人で対戦（1台を交代）
